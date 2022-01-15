@@ -4,9 +4,7 @@
 
 Telsa = T4
 
-
 CUDA = 11.1
-
 
 TensorRT = 8.0.3.4
 
@@ -103,7 +101,7 @@ compile
 
 ```
 git clone git@github.com:LIUHAO121/RetinaFace_TensorRT_cpp.git
-cd YOLOX_TensorRT_cpp
+cd RetinaFace_TensorRT_cpp
 mkdir -p build
 cd build
 cmake ..
